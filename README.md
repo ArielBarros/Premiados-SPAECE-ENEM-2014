@@ -24,7 +24,8 @@ Permissão de executar ```premiadosSpaeceEnem.py```
 ```shell
 $ sudo chmod +x premiadosSpaeceEnem.py
 ```
-Executando o script
+Execução
+--------
 ```shell
 $ sudo python3 premiadosSpaeceEnem.py
 ```
