@@ -32,3 +32,5 @@ $ sudo python3 premiadosSpaeceEnem.py
 Demonstração
 ------------
 [![asciicast](https://asciinema.org/a/134160.png)](https://asciinema.org/a/134160)
+
+#### Autor: [__ArielBarros__](https://github.com/ArielBarros)
